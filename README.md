@@ -5,3 +5,13 @@ This is the ubiquitin resouce a collection of NMR spectra collected on the ubiqu
 Baisc 1D and HSQC Spectra
 
 1H-15N HSQC https://zenodo.org/records/14757637/files/hn_Nhsqc.tgz?download=1
+
+Triple Resonance Backbone Assignment Spectra
+
+1H-13C-15N HNCA 
+1H-13C-15N HNcoCA
+1H-13C-15N HNCACB 
+1H-13C-15N CBCAcoNH 
+1H-13C-15N HNCB
+1H-13C-15N HNcoCB
+
