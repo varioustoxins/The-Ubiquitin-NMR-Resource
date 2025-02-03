@@ -1,6 +1,6 @@
 # The Ubiquitin NMR Resource
 
-This is the Ubiquitin NMR Resouce a collection of NMR spectra collected froma sample of ubiquitin, the classic small protein test sample for biological NMR. The original data was collected by Richard Harris and Paul Driscoll at UCL in London and published at the DOI:10.1021/bk-2007-0969.ch009. However, the this site is no longer available and Richard Harris and Pauld Driscoll kindly passed the data along to me to be re-uploaded onto the web. 
+This is the Ubiquitin NMR Resouce a collection of NMR spectra collected from a sample of ubiquitin, the classic small protein test sample for biological NMR. The original data was collected by Richard Harris and Paul Driscoll at UCL in London and published at the DOI:10.1021/bk-2007-0969.ch009. However, the this site is no longer available and Richard Harris and Pauld Driscoll kindly passed the data along to me to be re-uploaded onto the web. 
 
 ## Archive-1: <sup>1</sup>H-<sup>15</sup>N HSQC Spectrum and Triple Resonance Backbone Spectra
 
