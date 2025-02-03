@@ -1,0 +1,12 @@
+Archive-1 Version 1 MD5 checksums
+
+archive-1.tgz   md5:7e125d916602891ce15e8f56f9237458 	  1.7 GB
+cbcaconh3d.tgz  md5:3129b9c309fc33293f2bca1981d1bee1 	196.3 MB
+hn_Nhsqc.tgz    md5:bcf7334cf223d0c4b8362b5898f35612 	  6.0 MB
+hnca3d.tgz      md5:d2c50de142ece527bfc435e1887296ea 	283.6 MB
+hncacb3d.tgz    md5:fb49a33d139fcb8acaef9a44e83e4c6e 	197.7 MB
+hncaco3d.tgz    md5:60a1d24eb331f89c3139b7da66a9b27f 	281.3 MB
+hncb3d.tgz      md5:a35da324cb8a1d6278b930a053444b39 	197.8 MB
+hnco3d.tgz      md5:919fab070ddf8d84af3d28b6f5421644 	192.4 MB
+hncoca3d.tgz    md5:c34befc72b84e40d5fa2f026f95d4416 	195.2 MB
+hncocb3d.tgz    md5:db5d3256707b756bff5816682a56a416 	196.6 MB	
