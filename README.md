@@ -4,7 +4,7 @@ This is the Ubiquitin NMR Resouce a collection of NMR spectra collected froma sa
 
 ## Archive-1: <sup>1</sup>H-<sup>15</sup>N HSQC Spectrum and Triple Resonance Backbone Spectra
 
-A dowload link for the complete Archive-1 is [here](https://zenodo.org/records/14791182/files/archive-1.tgz?download=1)
+A dowload link for the complete Archive-1 is [here](https://zenodo.org/records/14791182/files/archive-1.tgz?download=1) md5 checksums for the files are listed [here](https://github.com/varioustoxins/The-Ubiquitin-NMR-Resource/blob/main/archive-1-v1-md5s.txt)
 
 The individual spectra in the file are linked here
 
